@@ -1,0 +1,4 @@
+{
+  "sequences": "/path/to/fasta",
+  "output": "/path/to/output/directory",
+}
